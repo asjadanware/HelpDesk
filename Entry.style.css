@@ -1,0 +1,28 @@
+.entry-page{
+   height: 100vh ;
+   display: flex;
+   justify-content: center;
+   align-items: center ;
+   
+}
+
+.Jumbotron {
+   border: 1px solid #ddd; /* Subtle border */
+   padding: 20px; 
+   max-width: 400px; /* Adjusted width for better usability */
+   background: #faf8f8; /* Light background color */
+   border-radius: 10px; /* Rounded corners */
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+   margin: auto; /* Centers the container horizontally */
+   width: 90%;  
+ }
+ 
+ .btnLogin{
+
+   margin-top: 20px;
+ }
+
+ .form-container{
+
+  max-width: 400px;
+ }
